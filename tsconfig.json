@@ -1,0 +1,24 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@screens/*": ["./src/screens/*"],
+      "@components/*": ["./src/components/*"],
+      "@navigation": ["./src/navigation"],
+      "@utils": ["./src/utils"],
+      "@theme": ["./src/theme"],
+      "@modals/*": ["./src/modals/*"],
+      "@enums/*": ["./src/enums/*"],
+      "@locale": ["./src/locale"],
+      "@hooks/*": ["./src/hooks/*"],
+      "@store": ["./src/redux/store"],
+      "@slices/*": ["./src/redux/slices/*"],
+      "@constants": ["./src/constants"],
+      "@services": ["./src/services"],
+      "@endpoints": ["./src/endpoints"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}

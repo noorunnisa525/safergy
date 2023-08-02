@@ -1,0 +1,16 @@
+export const colors = {
+  tangelo: '#FF6C1A',
+  white: '#fff',
+  lightGray: '#F0EFEF',
+  black: '#000',
+  lightSilver: '#666768',
+  water: '#CCECFF',
+  yellow: '#FFFF00',
+  red: '#FF0000',
+  antiqueWhite: '#FCE4D6',
+  davyGrey: '#535353',
+  riskLow: '#6CD03D',
+  riskModerate: '#D8E44B',
+  riskHigh: '#FF0102',
+  antiFlashWhite: '#F5F3F2',
+};

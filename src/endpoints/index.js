@@ -1,0 +1,13 @@
+export const login = 'login';
+export const register = 'register';
+export const completeProfile = 'complete_profile';
+export const forgotPassword = 'forgot_password';
+export const verifyPhone = 'verify_phone';
+export const getAllergies = 'get_allergies';
+export const getRestaurants = 'get_restaurants';
+export const getUser = 'get_user';
+export const resendOtp = 'resend_otp';
+export const updateProfile = 'update_profile';
+export const getRestaurantDetail = 'get_restaurant_detail';
+export const post_experience = 'post_experience';
+export const getExperience = 'get_experience';

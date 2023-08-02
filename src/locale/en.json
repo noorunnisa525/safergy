@@ -1,0 +1,15 @@
+{
+  "welcome": "Welcome",
+  "user_pass": "Enter your username and password",
+  "signin": "Sign in",
+  "username": "Username",
+  "password": "Password",
+  "username_required": "Email is required",
+  "firstName_required": "First name is required",
+  "lastName_required": "Last name is required",
+  "email_required": "Email is required",
+  "password_required": "Password is required",
+  "password_require": "Confirm password is required",
+  "password_confirmation_error": "Password does not match",
+  "logout": "Logout"
+}
